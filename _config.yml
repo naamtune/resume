@@ -48,7 +48,7 @@ linkedin_username: tunek
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Tune Katerungroch, an IT professional based in Southern California, USA. Having accumulated over 14 years of professional IT experience, I have fostered excellence in the following specialties: open-source intelligence gathering, network engineering, and systems administration. I am currently working for Consolidated Precision Products as a security analyst.
+"My name is Tune Katerungroch, an IT professional based in Southern California, USA. Having accumulated over 14 years of professional IT experience, I have fostered excellence in the following specialties: open-source intelligence gathering, network engineering, and systems administration. I am currently working for Consolidated Precision Products as a security analyst.
 
 My passion in technologies took root in a humble beginning of building home computer with my father on the floor of the living room when I was a toddler. As I grew older, I self-taught myself technical skills and concepts through hand-on experience and contents made available on the Internet. In later life, my career growth took a leap forward as I begun to professionally collaborate with peers in the industry. 
 
@@ -58,7 +58,8 @@ Much of my IT career have been spent supporting infrastructure within the logist
 
 Outside of my professional life, I can be found in the outdoor settings rappelling down waterfalls with my teams, and scaling steep rocky desert mountains with my friends. If I’m not outside on weekend adventures as weekend warrior, I can also be found volunteering my time to community services offering my time to non-profit organizations, serving the communities in search and rescue missions, wandering the metro cities doing urban photography, and spending quality time at home with my family.
 
-  The things I am currently most skilled in: <mark>network security</mark>, <mark>network switching</mark>, <mark>open-source intelligence gathering</mark>, <mark>Windows Server administration</mark>, and <mark>project management</mark>.
+  The things I am currently most skilled in: <mark>network security</mark>, <mark>network switching</mark>, <mark>open-source intelligence gathering</mark>, <mark>Windows Server administration</mark>, and <mark>project management</mark>."
+
 
 content:
   - title: Projects # Title for the section
