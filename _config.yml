@@ -101,8 +101,8 @@ content:
             * Worked closely with security team, infrastructure team, and stakeholders to address critical/high-priority vulnerabilities found through Nessus/Rapid7.
             * Collaborated with security team and upper management to author/coauthor company-wide security policies and procedures to satisfy regulations and compliance. 
 
-              <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
-
+            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
+            **Technologies:**
       - layout: left
         title: Consolidated Precision Products
         link: cppcorp.com
@@ -114,6 +114,20 @@ content:
 
             During the time I grew in this role, I oversaw numerous infrastructure overhaul projects, participated in the business merging and acquisitions, developed standards and procedures, trained and managed team of four as team lead, and a primary point of contact for IT support during business emergencies. Whoever and wherever I go to assist, I also make sure the support experience I’m delivering is top-notch in making sure users feel supported and seen.
 
+            * Led and deployed lite-touch imaging service using Powershell, WDS, and MDT to California region to automate hardware imaging process down to 10 minutes lead-time at minimal cost.
+            * Led and managed $150k-$300k network and servers infrastructure overhaul projects at each of the 6+ Californian fand Mexican acilities through planning, budgeting, configuring, installation, and migration.
+            * Rescued business operations from $14M+ loss in productivity triggered by a singular computer security lockout on legacy SCADA hardware due to operator error.
+            * Improved quality of wireless coverage and refreshed wireless network infrastructure at 6+ locations through heatmapping, planning, budgeting, and deployment of Meraki wireless access points across 6+ facilities in California, Minnesota, Ohio, and Ensenada, Mexico.
+            * Deployed and administered 3-2-1 policies and Veeam backup solution at 6+ sites with automated workstation agent deployment, and was responsible for monitoring alerts and testing backup integrity on a weekly and monthly basis.
+            * Provided on-site and remote Level 1-3 support across USA and Mexico, serving 500+ users and 500+ endpoints at 16+ facilities.
+            * Deployed a centralized documentation system to house technical notes and source of truth, reducing siloed tribal knowledge, establish information integrity and availability, and to foster collaboration between regional IT teams. 
+            * Worked with local facility management team to gather evidence, procedures, and policies to provide to federal government agencies for audits.
+            * Developed custom Powershell scripts to automate repetitive mundane tasks to free up time and resources to focus on more impactful tasks and projects.
+            * Manage/Configure/Troubleshoot Microsoft O365/Entra/Azure technical issues
+
+            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
+            **Technologies:**
+
       - layout: left
         title: Virtual Machine Solutions
         link: virmach.com
@@ -123,6 +137,14 @@ content:
         description: | # this will include new lines to allow paragraphs
             During my short contract supporting cloud service provider, I lend my support to address service abusers, handled Level 1-3 support cases, handled customer billings, and monitored server performance hosted at multiple datacenters across USA and Europe.
 
+            * Handled 20+ abuse reports on daily, such as verifying the legitimacy of incoming abuse reports, confirming reports, closing down accounts, shutting down malicious services, and warning customers, depending on severity of abuse and violation.
+            * Handled abuse reports submitted by government agencies such as FBI.
+            * Monitored and stablized server performance using provided tools such as Nixstats, iostats, sar, top, etc.
+            * Combed through customers to look for abusive uses such as crypto-mining and hosting malware.
+
+            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
+            **Technologies:**
+
       - layout: left
         title: Redlands East Valley Highschool
         link: rev.redlandsusd.net/
@@ -131,6 +153,12 @@ content:
         caption: August 2010 - June 2011
         description: | # this will include new lines to allow paragraphs
             My entry into IT began working as a Level 1 technician for my local highschool campus, providing on-site support to teachers and school classrooms. I was involved in performing end of year inventory and the imaging and deployment of computer hardware for the campus.
+            * Imaged 50+ school computers and verified the computers are working as intended.
+            * Assisted with level 1 helpdesk issues. 
+            * Managed the school campus website.
+
+            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
+            **Technologies:**
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
