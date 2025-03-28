@@ -168,14 +168,14 @@ content:
             **Technologies:** <mark>Symantec Ghost Imaging</mark> <mark>Windows XP</mark>
 
   - title: Certifications # Title for the section
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-    - Cisco Certified Networking Associate (CCNA)
-    - CompTIA Security+
-    - CompTIA Network+
-    - CompTIA A+
-    - Microsoft Azure Security, Compliance, and Identity Fundamentals (SC-900)
-    - Microsoft Azure Network Fundamentals (AZ-900)
+    layout: text # Type of content section (list/text)
+    content: |
+      - Cisco Certified Networking Associate (CCNA)
+      - CompTIA Security+
+      - CompTIA Network+
+      - CompTIA A+
+      - Microsoft Azure Security, Compliance, and Identity Fundamentals (SC-900)
+      - Microsoft Azure Network Fundamentals (AZ-900)
 
   - title: A Little More About Me
     layout: text
