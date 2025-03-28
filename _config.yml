@@ -87,12 +87,10 @@ content:
         title: Consolidated Precision Products
         link: cppcorp.com
         # link_text: boringcompany.com
-        sub_title: Information Security Specialist (Network Security Engineer)
+        sub_title: Network Security Engineer
         caption: April 2023 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            With my transition from infrastructure team to security team, I took on more security-oriented responsibilities in addition to my infrastructure duties. I have been working on implementing network security measures such as 802.1X, rolling out network monitoring solutions, implementing and managing stateless and stateful firewalls. On the infrastructure side, I have begun to take on duties of mnanaging, handling and troubleshooting our Azure resources, including vNets, on Azure Government.
 
               <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
 
@@ -100,12 +98,12 @@ content:
         title: Consolidated Precision Products
         link: cppcorp.com
         # link_text: boringcompany.com
-        sub_title: IT Technical Specialist (Senior Windows System Administrator)
+        sub_title: System Administrator
         caption: June 2012 - April 2023
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            What initially started as a two weeks temporary full-time IT technician with minimal IT background to support the early Windows XP to Windows 7 migration grew into a permanent full-time position where I found myself taking on more technical challenges and making increasingly critical decisions that would have impactful effects on the business growth, drive IT policies and procedures, and set performance gold standard for the rest of the IT to adhere to.
+
+            During the time I grew in this role, I oversaw numerous infrastructure overhaul projects, participated in the business merging and acquisitions, developed standards and procedures, trained and managed team of four as team lead, and a primary point of contact for IT support during business emergencies. Whoever and wherever I go to assist, I also make sure the support experience I’m delivering is top-notch in making sure users feel supported and seen.
 
       - layout: left
         title: Virtual Machine Solutions
@@ -113,10 +111,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Level 3 Technical Support Contractor
         caption: February 2018 - May 2018
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            During my short contract supporting cloud service provider, I lend my support to address service abusers, handled Level 1-3 support cases, handled customer billings, and monitored server performance hosted at multiple datacenters across USA and Europe.
 
       - layout: left
         title: Redlands East Valley Highschool
@@ -124,20 +120,16 @@ content:
         # link_text: boringcompany.com
         sub_title: PC Technician
         caption: August 2010 - June 2011
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            My entry into IT began working as a Level 1 technician for my local highschool campus, providing on-site support to teachers and school classrooms. I was involved in performing end of year inventory and the imaging and deployment of computer hardware for the campus.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Crafton Hills Community COllege
+        caption: 2011 - 2013
+        sub_title: Student
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
