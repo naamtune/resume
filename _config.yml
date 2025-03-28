@@ -101,8 +101,10 @@ content:
             * Worked closely with security team, infrastructure team, and stakeholders to address critical/high-priority vulnerabilities found through Nessus/Rapid7.
             * Collaborated with security team and upper management to author/coauthor company-wide security policies and procedures to satisfy regulations and compliance. 
 
-            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
-            **Technologies:**
+            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>  
+            **Technologies:**  
+            
+          ----
       - layout: left
         title: Consolidated Precision Products
         link: cppcorp.com
@@ -125,9 +127,9 @@ content:
             * Developed custom Powershell scripts to automate repetitive mundane tasks to free up time and resources to focus on more impactful tasks and projects.
             * Manage/Configure/Troubleshoot Microsoft O365/Entra/Azure technical issues
 
-            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
-            **Technologies:**
-
+            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>  
+            **Technologies:**  
+          ----
       - layout: left
         title: Virtual Machine Solutions
         link: virmach.com
@@ -142,9 +144,10 @@ content:
             * Monitored and stablized server performance using provided tools such as Nixstats, iostats, sar, top, etc.
             * Combed through customers to look for abusive uses such as crypto-mining and hosting malware.
 
-            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
-            **Technologies:**
+            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>  
+            **Technologies:**  
 
+          ----
       - layout: left
         title: Redlands East Valley Highschool
         link: rev.redlandsusd.net/
@@ -157,7 +160,7 @@ content:
             * Assisted with level 1 helpdesk issues. 
             * Managed the school campus website.
 
-            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
+            **Technical Skills:**  <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>  
             **Technologies:**
 
   - title: Education # Title for the section
