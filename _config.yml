@@ -90,8 +90,9 @@ content:
         sub_title: Network Security Engineer
         caption: April 2023 - Present
         description: | # this will include new lines to allow paragraphs
-            With my transition from infrastructure team to security team, I took on more security-oriented responsibilities in addition to my infrastructure duties. I have been working on implementing network security measures such as 802.1X, rolling out network monitoring solutions, implementing and managing stateless and stateful firewalls. On the infrastructure side, I have begun to take on duties of mnanaging, handling and troubleshooting our Azure resources, including vNets, on Azure Government.
-
+            ## Summary
+            With my transition from infrastructure team to security team, I took on more security-oriented responsibilities in addition to my infrastructure duties. I have been working on implementing network security measures such as 802.1X, rolling out network monitoring solutions, implementing and managing stateless and stateful firewalls. On the infrastructure side, I have begun to take on duties of mnanaging, handling and troubleshooting our Azure resources, including vNets, on Azure Government.  
+            ## Experience
             * Led the implementation of 802.1X on wired network and wireless network to move toward passwordless authentication, reduce attack vectors, address technical shortcomings with previous authentication method, reduce network overheard, and minimize password-related tickets.
             * Led the implementation of AAA on network switches across the entire corporate infrastructure to enable security logging, create accountability, to grant RBAC to local IT teams, and reduce IT overhead.
             * Deployed and configured Solarwinds NPM/NCM/NTA modules to create tailored network monitoring of the internal network infrastructure to improve response time to network outage and degraded system performance.
@@ -111,10 +112,12 @@ content:
         sub_title: System Administrator
         caption: June 2012 - April 2023
         description: | # this will include new lines to allow paragraphs
+            ## Summary
             What initially started as a two weeks temporary full-time IT technician with minimal IT background to support the early Windows XP to Windows 7 migration grew into a permanent full-time position where I found myself taking on more technical challenges and making increasingly critical decisions that would have impactful effects on the business growth, drive IT policies and procedures, and set performance gold standard for the rest of the IT to adhere to.
 
-            During the time I grew in this role, I oversaw numerous infrastructure overhaul projects, participated in the business merging and acquisitions, developed standards and procedures, trained and managed team of four as team lead, and a primary point of contact for IT support during business emergencies. Whoever and wherever I go to assist, I also make sure the support experience I’m delivering is top-notch in making sure users feel supported and seen.
+            During the time I grew in this role, I oversaw numerous infrastructure overhaul projects, participated in the business merging and acquisitions, developed standards and procedures, trained and managed team of four as team lead, and a primary point of contact for IT support during business emergencies. Whoever and wherever I go to assist, I also make sure the support experience I’m delivering is top-notch in making sure users feel supported and seen.  
 
+            ## Experience
             * Led and deployed lite-touch imaging service using Powershell, WDS, and MDT to California region to automate hardware imaging process down to 10 minutes lead-time at minimal cost.
             * Led and managed $150k-$300k network and servers infrastructure overhaul projects at each of the 6+ Californian fand Mexican acilities through planning, budgeting, configuring, installation, and migration.
             * Rescued business operations from $14M+ loss in productivity triggered by a singular computer security lockout on legacy SCADA hardware due to operator error.
@@ -124,7 +127,7 @@ content:
             * Deployed a centralized documentation system to house technical notes and source of truth, reducing siloed tribal knowledge, establish information integrity and availability, and to foster collaboration between regional IT teams. 
             * Worked with local facility management team to gather evidence, procedures, and policies to provide to federal government agencies for audits.
             * Developed custom Powershell scripts to automate repetitive mundane tasks to free up time and resources to focus on more impactful tasks and projects.
-            * Manage/Configure/Troubleshoot Microsoft O365/Entra/Azure technical issues
+            * Manage/Configure/Troubleshoot Microsoft O365/Entra/Azure technical issues.
 
             **Technical Skills:** <mark>Leadership</mark> <mark>Powershell</mark> <mark>SQL</mark> <mark>Python</mark> <mark>C++</mark> <mark>PHP</mark> <mark>TCP/IP</mark> <mark>hardware reverse engineering</mark> <mark>technical writing</mark> <mark>network architect</mark> <mark>database administration</mark>  
             **Technologies:** <mark>Windows Server 2012/2016/2019/2022</mark> <mark>Windows 2000/XP/7/10/11</mark> <mark>Linux</mark> <mark>WDS</mark> <mark>MDT</mark> <mark>Powershell</mark> <mark>Visio</mark> <mark>Office 365</mark> <mark>Entra</mark> <mark>Confluence</mark> <mark>Wiki.js</mark> <mark>Windbg</mark> <mark>Ollydbg</mark> <mark>Sysinternals</mark> <mark>VMWare ESX</mark> <mark>MySQL</mark> <mark>MSSQL</mark> <mark>Veeam</mark> <mark>Grapfana</mark> <mark>Kaftka</mark>  
@@ -136,8 +139,9 @@ content:
         sub_title: Level 3 Technical Support Contractor
         caption: February 2018 - May 2018
         description: | # this will include new lines to allow paragraphs
+            ## Summary
             During my short contract supporting cloud service provider, I lend my support to address service abusers, handled Level 1-3 support cases, handled customer billings, and monitored server performance hosted at multiple datacenters across USA and Europe.
-
+            ## Experience
             * Handled 20+ abuse reports on daily, such as verifying the legitimacy of incoming abuse reports, confirming reports, closing down accounts, shutting down malicious services, and warning customers, depending on severity of abuse and violation.
             * Handled abuse reports submitted by government agencies such as FBI.
             * Monitored and stablized server performance using provided tools such as Nixstats, iostats, sar, top, etc.
@@ -153,7 +157,9 @@ content:
         sub_title: PC Technician
         caption: August 2010 - June 2011
         description: | # this will include new lines to allow paragraphs
+            ## Summary
             My entry into IT began working as a Level 1 technician for my local highschool campus, providing on-site support to teachers and school classrooms. I was involved in performing end of year inventory and the imaging and deployment of computer hardware for the campus.
+            ## Experience
             * Imaged 50+ school computers and verified the computers are working as intended.
             * Assisted with level 1 helpdesk issues. 
             * Managed the school campus website.
