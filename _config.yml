@@ -92,6 +92,15 @@ content:
         description: | # this will include new lines to allow paragraphs
             With my transition from infrastructure team to security team, I took on more security-oriented responsibilities in addition to my infrastructure duties. I have been working on implementing network security measures such as 802.1X, rolling out network monitoring solutions, implementing and managing stateless and stateful firewalls. On the infrastructure side, I have begun to take on duties of mnanaging, handling and troubleshooting our Azure resources, including vNets, on Azure Government.
 
+            * Led the implementation of 802.1X on wired network and wireless network to move toward passwordless authentication, reduce attack vectors, address technical shortcomings with previous authentication method, reduce network overheard, and minimize password-related tickets.
+            * Led the implementation of AAA on network switches across the entire corporate infrastructure to enable security logging, create accountability, to grant RBAC to local IT teams, and reduce IT overhead.
+            * Deployed and configured Solarwinds NPM/NCM/NTA modules to create tailored network monitoring of the internal network infrastructure to improve response time to network outage and degraded system performance.
+            * Configured, maintained, and troubleshoot stateless and stateful firewalls (ACL/Pfsense), and receive/fulfill blacklist/whitelist application/port requests from IT team members for 6+ facilities in Southern California region.
+            * Improve network backbone throughput, capacity, and uptime through 10G fiber uplink overhaul, implementation of VSF, RSTP, DHCP snooping, and LACP.
+            * Through collaborative efforts with automation team, planned, configured, and deployed SCADA network for the rollout of PLCs, industrial IoTs and data collectors for 4+ Californian facilities. 
+            * Worked closely with security team, infrastructure team, and stakeholders to address critical/high-priority vulnerabilities found through Nessus/Rapid7.
+            * Collaborated with security team and upper management to author/coauthor company-wide security policies and procedures to satisfy regulations and compliance. 
+
               <mark>SIEM</mark>, <mark>EDR</mark>, <mark>OSINT</mark>, <mark>RADIUS</mark>, <mark>PKI</mark>, <mark>AAA</mark>, <mark>802.1X</mark>, <mark>EAP-TLS</mark>, <mark>Governance, Risk, and Compliance</mark>, <mark>Fortigate</mark>, <mark>Stateless & Stateful ACL Firewalls</mark>, <mark>NAC</mark>
 
       - layout: left
